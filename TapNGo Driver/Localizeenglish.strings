@@ -1,0 +1,116 @@
+/* 
+  Localizeenglish.strings
+  TapNGo Driver
+
+  Created by Mohammed Arshad on 22/03/18.
+  Copyright © 2018 nPlus. All rights reserved.
+*/
+
+
+"APPLICATION NAME" = "TAPNGO";
+
+// Initial page
+
+"Sign In" = "Sign In";
+"Sign Up" = "Sign Up";
+
+// Login
+
+"Login" = "Login";
+"Mobile Number / Email ID" = "Mobile Number / Email ID";
+"Password"="Password";
+"Forgot password"="Forgot password";
+
+// Forgot password
+
+"Phone Number" = "Phone Number";
+"Please Check your registered phone number" = "Please Check the registered phone number";
+"Send" = "Send";
+"Please Choose your Country Code" = "Please Choose your Country Code";
+"Please enter your Phone Number" = "Please enter your Phone Number";
+"OK" = "OK";
+
+// Register User Details
+
+"Registration"="Registration";
+"First Name" = "First Name";
+"Last Name" = "Last Name";
+"Email ID" = "Email ID";
+"Password" = "Password";
+"Phone Number"="Phone Number";
+"Next"="Next";
+
+// Register Vehicle Details
+
+"Vehicle Info"="Vehicle Info";
+"Vehicle Number"="Vehicle Number";
+"Vehicle Model"="Vehicle Model";
+"Next"="Next";
+
+// Register Vehicle Document Details
+
+"Documents"="Documents";
+"File Format label"="It is recommended to attch the documents asJPEG, JPg or PNG Format";
+"Driving License"="Driving License";
+"Insurance"="Insurance";
+"RC Book"="RC Book";
+"Title"="Title";
+"Expiry Date"="Expiry Date";
+"Ok"="Ok";
+"Submit"="Submit";
+
+// Home
+
+"Home" = "Home";
+"GO OFFLINE" = "GO OFFLINE";
+"GO ONLINE" = "GO ONLINE";
+"Go Online To Receive Requests"="Go Online To Receive Requests";
+"Accept"="Accept";
+"Reject"="Reject";
+
+// Side Menu
+
+"Profile"="Profile";
+"Home"="Home";
+"History"="History";
+"Settings"="Settings";
+"Complaints"="Complaints";
+"SOS"="SOS";
+"Share"="Share";
+"Logout"="Logout";
+
+// Profile
+
+"Edit"="Edit";
+"Basic Settings"="Basic Settings";
+"FIRST NAME"="FIRST NAME";
+"LAST NAME"="LAST NAME";
+"Change Password"="Change Password";
+"PASSWORD"="PASSWORD";
+"Current Password"="Current Password";
+"NEW"="NEW";
+"New Password"="New Password";
+"CONFIRM"="CONFIRM";
+"Confirm New Password"="Confirm New Password";
+"Contact Settings"="contact Settings";
+"EMAIL"="EMAIL";
+"PHONE"="PHONE";
+"Update"="Update";
+"Please Enter your First Name"="Please Enter your First Name";
+"Please Enter your Last Name"="Please Enter your Last Name";
+"Please Enter your Password"="Please Enter your Password";
+"Please Enter your New Password"="Please Enter your New Password";
+"Please Enter your Confirm Password"="Please Enter your Confirm Password";
+"Password must be 8 characters long"="Password must be 8 characters long";
+"New Password must be 8 characters long"="New Password must be 8 characters long";
+"Confirm Password must be 8 characters long"="Confirm Password must be 8 characters long";
+
+// History
+
+"History"="History";
+
+
+
+
+
+

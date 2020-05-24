@@ -1,0 +1,6 @@
+framework module DKDropMenu {
+  umbrella header "DKDropMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}

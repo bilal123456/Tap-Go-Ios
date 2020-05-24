@@ -1,0 +1,6 @@
+framework module Pods_TapNGo_Driver {
+  umbrella header "Pods-TapNGo Driver-umbrella.h"
+
+  export *
+  module * { export * }
+}

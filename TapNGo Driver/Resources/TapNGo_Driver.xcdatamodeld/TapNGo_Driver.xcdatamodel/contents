@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="17B1003" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Login_UserData" representedClassName="Login_UserData" syncable="YES" codeGenerationType="class">
+        <attribute name="loginuser_devicetoken" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="loginuser_devicetype" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="loginuser_email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="loginuser_firstname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="loginuser_ID" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="loginuser_is_active" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="loginuser_is_approve" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="loginuser_is_available" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="loginuser_lastname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="loginuser_phone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="loginuser_profilepicture" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="loginuser_token" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Request_AcceptedData" representedClassName="Request_AcceptedData" syncable="YES" codeGenerationType="class">
+        <attribute name="accepted_request_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bill_basedistance" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bill_baseprice" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bill_currency" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bill_distancecost" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bill_driverpayment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bill_price_per_distance" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bill_price_per_time" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bill_promobonus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bill_referralbonus" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bill_servicefee" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bill_servicetax" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bill_servicetax_percent" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bill_timecost" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bill_totalamount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bill_waitingcost" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="bill_wallet_amount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="request_customer_email" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="request_customer_firstname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="request_customer_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="request_customer_lastname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="request_customer_phonenumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="request_customer_profilepicture" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="request_customer_review" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="request_drop_location" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="request_is_customer_rated" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="request_is_driver_arrived" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="request_is_trip_accepted" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="request_is_trip_cancelled" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="request_is_trip_completed" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="request_is_trip_started" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="request_pickup_location" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="request_trip_paymenttype" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="trip_distance" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="trip_time" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Login_UserData" positionX="-63" positionY="-18" width="128" height="225"/>
+        <element name="Request_AcceptedData" positionX="-63" positionY="72" width="128" height="570"/>
+    </elements>
+</model>
